@@ -29,7 +29,7 @@
   <main class="p-6">
     <x-card class="my-2 bg-green-500">
       <x-slot:name class="text-xl">
-        Here we go
+        Here we go!
         {{-- {{ $component }} --}}
       </x-slot:name>
       This is slot!
