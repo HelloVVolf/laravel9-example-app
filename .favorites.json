@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\example-app\\database\\migrations",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\example-app\\database\\migrations",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "d4RJyXbjc3wF9ENK"
+    },
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\example-app\\app\\Http\\Controllers",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\example-app\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "5TUgcNLlK8WSMy67"
+    },
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\example-app\\resources\\views",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\example-app\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xMuOStNDiVydbkrm"
+    },
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\example-app\\routes",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\example-app\\routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "QRrelx67G1C52D3q"
+    },
+    {
+        "type": "Directory",
+        "name": "e:\\Development\\Laravel\\example-app\\app\\Models",
+        "parent_id": null,
+        "fsPath": "e:\\Development\\Laravel\\example-app\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "pfuU2nY9SI75wZP6"
+    }
+]
